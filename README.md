@@ -1,5 +1,5 @@
 
-这个项目基于`react + antdesign + react-router + redux + axios + mock + AMap + echarts`等技术栈完成。初学react的小学渣，如果有哪些地方写的有问题，希望可以多多指点，也欢迎大家能多多`star`一下，支持一下，花费业余时间开发不容易，联系方式`15201512159@163.com`，谢谢！！！
+这个项目基于`react + antdesign + react-router + redux + axios + mock + AMap + echarts`等技术栈完成。
 
 ## 项目介绍
 
