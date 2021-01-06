@@ -5,16 +5,9 @@
 
 注意：现在项目并没有全部完成，部分功能待开发
 
-项目运行地址：https://chengllnice.github.io/react-store-admin/
-
 项目运行
 
 ```javascript
-git clone https://github.com/chengllNice/react-store-admin.git
-
-cd react-store-admin
-
-cnpm i
 
 npm start
 
